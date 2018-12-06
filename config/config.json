@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "ondar_user",
+    "password": "ondar_password",
+    "database": "ondar_db",
+    "host": "172.17.0.2",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
